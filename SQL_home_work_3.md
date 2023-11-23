@@ -1,3 +1,5 @@
+-- Ödev 3
+
 SELECT country.country FROM country WHERE country LIKE 'A%a';
 
 SELECT country.country FROM country WHERE country LIKE '%_____n';
